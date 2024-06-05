@@ -1,0 +1,47 @@
+body{
+    margin:0;
+}
+.head-text{
+    background-color: rgb(235, 197, 197);
+    text-align: center;
+    padding: 5px;
+
+
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+   
+
+}
+body{
+    background-color: ;
+}
+input,textarea,option,select{
+    background-color: black;
+    color :white
+}
+
+.form-container{
+    margin: 10px;
+    width: 10cm;
+    height: max-content;
+    padding: 1cm;
+    border-radius: 10px;
+    background-color: bisque;
+
+   
+}
+label{
+    height: 1cm;
+}
+.footer-text{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(235, 197, 197);
+    color: black;
+    text-align: center;
+
+}

@@ -1,0 +1,43 @@
+
+
+    body{
+        margin: 2cm;
+        background-color: wheat;
+    }
+    .heading{
+        text-align: center;
+        color: red;
+        background-color: aqua;
+       
+
+    }
+    .footer-tag{
+
+        text-align: right;
+        color: green;
+        background-color: yellow;
+        font-style: oblique;
+    }
+    .main-container{
+        
+        border-radius: 10px;
+        color: brown;
+        
+
+    }
+    #m{
+        
+        background-color: chartreuse;
+        
+        padding:10px;
+    }
+    #m2{
+        margin: 2cm;
+        
+    }
+#headin-text{
+    
+    font-weight: bolder;
+    font-size: 50px;
+    
+}

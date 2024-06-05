@@ -1,0 +1,41 @@
+body
+{
+    
+}
+header{
+    height: 140px;
+    
+   
+
+}
+#yessimg{
+    margin-left: 100px;
+    
+    
+}
+#img1{
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+#img2{
+
+
+    height: 150px;
+    width: 150px;
+    
+}
+#isoimg{
+float: left;
+margin-left: 500px;
+}
+#enquiry{
+    float: right;
+    color: grey;
+    margin-right: 50px;
+}
+.quick-links{
+    background-color: aqua;
+    width: 100%;
+    height: 20px;
+}
